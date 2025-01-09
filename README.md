@@ -3,3 +3,5 @@
 - Xbox
 - Milk
 - Broccoli
+- Carrots
+- Chocolate
